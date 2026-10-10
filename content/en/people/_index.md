@@ -16,7 +16,7 @@ sections:
         - Master Students
         - Undergraduate Students
       sort_by: 'Params.weight'
-      sort_ascending: true
+      sort_ascending: false
       cta:
         text: Join Our Team
         url: /opportunities
