@@ -3,7 +3,7 @@ title: Baokang Fan
 type: landing
 first_name: Baokang
 last_name: Fan
-weight: 1
+weight: 5
 user_groups:
   - Ph.D. Students
 superuser: false

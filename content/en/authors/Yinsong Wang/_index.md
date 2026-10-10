@@ -3,9 +3,9 @@ title: Yinsong Wang
 type: landing
 first_name: Yinsong
 last_name: Wang
-weight: 3
+weight: 2
 user_groups:
-  - Master Students
+  - Undergraduate Students
 superuser: false
 highlight_name: true
 role: M.S.
@@ -38,4 +38,4 @@ sections:
       view: pub-item
       sort_order: "type_year"
 ---
-He is currently a master’s student at Tsinghua University. His research interests include Cooperative Perception and Sim-to-Real Adaptation.
+Yinsong Wang received the M.S. degree from Tsinghua University in 2026. His research interests include Cooperative Perception and Sim-to-Real Adaptation.

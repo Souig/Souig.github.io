@@ -3,12 +3,12 @@ title: Yaodan Xu
 type: landing
 first_name: Yaodan
 last_name: Xu
-weight: 2
+weight: 1
 user_groups:
   - Undergraduate Students
 superuser: false
 highlight_name: true
-role: Undergraduate Students
+role: Ph.D.
 organizations:
   - name: Dept. of Electronic Engineering, Tsinghua University
 interests:
@@ -39,4 +39,4 @@ sections:
       view: pub-item
       sort_order: "type_year"
 ---
-She is a Ph.D. student in the Department of Electronic Engineering at Tsinghua University. She received her B.Eng. degree from Tsinghua University.
+Yaodan Xu received the Ph.D. degree from Tsinghua University in 2026.

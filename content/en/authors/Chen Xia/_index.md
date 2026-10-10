@@ -3,12 +3,12 @@ title: Chen Xia
 type: landing
 first_name: Chen
 last_name: Xia
-weight: 1
+weight: 2
 user_groups:
   - Undergraduate Students
 superuser: false
 highlight_name: true
-role: Undergraduate Students
+role: M.S.
 organizations:
   - name: Dept. of Electronic Engineering, Tsinghua University
 interests:
@@ -38,4 +38,4 @@ sections:
       view: pub-item
       sort_order: "type_year"
 ---
-He has been pursuing his M.S. degree in Electronic Engineering at Tsinghua University, Beijing, China, since 2023. He received his B.S. degree in Electronic Engineering from Huazhong University of Science and Technology, Wuhan, China, in 2023.
+Chen Xia received the M.S. degree from Tsinghua University in 2026. He received his B.S. degree in Electronic Engineering from Huazhong University of Science and Technology, Wuhan, China, in 2023.

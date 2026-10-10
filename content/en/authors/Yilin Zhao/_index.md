@@ -3,7 +3,7 @@ title: Yilin Zhao
 type: landing
 first_name: Yilin
 last_name: Zhao
-weight: 3
+weight: 1
 user_groups:
   - Master Students
 social:

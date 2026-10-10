@@ -3,7 +3,7 @@ title: Jialin Dong
 type: landing
 first_name: Jialin
 last_name: Dong
-weight: 2
+weight: 4
 user_groups:
   - Ph.D. Students
 superuser: false

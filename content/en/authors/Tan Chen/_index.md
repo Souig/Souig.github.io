@@ -8,7 +8,7 @@ user_groups:
   - Undergraduate Students
 superuser: false
 highlight_name: true
-role: Undergraduate
+role: Ph.D.
 organizations:
   - name: Dept. of Electronic Engineering, Tsinghua University
 interests:
@@ -40,4 +40,4 @@ sections:
       view: pub-item
       sort_order: "type_year"
 ---
-Tan Chen is a Ph.D. student at Tsinghua University. His research interests include edge computing, federated learning, and vehicular networks.
+Tan Chen ireceived the Ph.D. degree from Tsinghua University in 2026. His research interests include edge computing, federated learning, and vehicular networks.

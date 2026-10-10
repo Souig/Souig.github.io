@@ -3,7 +3,7 @@ title: Wencheng Yan
 type: landing
 first_name: Wencheng
 last_name: Yan
-weight: 4
+weight: 2
 user_groups:
   - Ph.D. Students
 superuser: false

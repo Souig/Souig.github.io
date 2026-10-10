@@ -3,7 +3,7 @@ title: Chenbing Wang
 type: landing
 first_name: Chenbing
 last_name: Wang
-weight: 1
+weight: 3
 user_groups:
   - Master Students
 superuser: false

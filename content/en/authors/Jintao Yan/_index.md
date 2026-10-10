@@ -3,7 +3,7 @@ title: Jintao Yan
 type: landing
 first_name: Jintao
 last_name: Yan
-weight: 1
+weight: 5
 user_groups:
   - Ph.D. Students
 social:

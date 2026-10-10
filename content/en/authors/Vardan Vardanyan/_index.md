@@ -3,7 +3,7 @@ title: Vardan Vardanyan
 type: landing
 first_name: Vardan
 last_name: Vardanyan
-weight: 5
+weight: 3
 user_groups:
   - Master Students
 social:

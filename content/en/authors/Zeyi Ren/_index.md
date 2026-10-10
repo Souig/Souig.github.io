@@ -3,7 +3,7 @@ title: Zeyi Ren
 type: landing
 first_name: Zeyi
 last_name: Ren
-weight: 5
+weight: 1
 user_groups:
   - Ph.D. Students
 superuser: false

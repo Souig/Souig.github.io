@@ -3,7 +3,7 @@ title: Eunsang Lee
 type: landing
 first_name: Eunsang
 last_name: Lee
-weight: 4
+weight: 3
 user_groups:
   - Master Students
 social:
