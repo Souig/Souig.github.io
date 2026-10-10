@@ -11,8 +11,6 @@ highlight_name: true
 role: Ph.D.
 organizations:
   - name: Dept. of Electronic Engineering, Tsinghua University
-interests:
-  - 
 sections:
   - block: resume-biography-3
     content:

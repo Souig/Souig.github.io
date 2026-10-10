@@ -1,8 +1,8 @@
 ---
 title: Renxiao Zeng
 type: landing
-first_name: Chen
-last_name: Xia
+first_name: Renxiao
+last_name: Zeng
 weight: 4
 user_groups:
   - Undergraduate Students
@@ -11,8 +11,6 @@ highlight_name: true
 role: M.S.
 organizations:
   - name: Dept. of Electronic Engineering, Tsinghua University
-interests:
-  - 
 sections:
   - block: resume-biography-3
     content:
