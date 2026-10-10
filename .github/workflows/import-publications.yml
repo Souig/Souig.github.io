@@ -82,6 +82,7 @@ jobs:
         # Set ID for `Check outputs` stage
         id: cpr
         uses: peter-evans/create-pull-request@v6
+        continue-on-error: true
         with:
           commit-message: 'feat(publications): import latest publications from bibtex'
           title: 'HugoBlox Kit - Import latest publications from Bibtex'
@@ -110,6 +111,13 @@ jobs:
           echo "📝 Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
           echo "🔗 Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
           echo "🎯 Operation completed at $(date)"
+          
+      - name: Report PR creation fallback
+        if: ${{ steps.cpr.outcome == 'failure' }}
+        run: |
+          echo "⚠️ Pull request could not be created by GitHub Actions."
+          echo "⚠️ This usually means 'Allow GitHub Actions to create and approve pull requests' is disabled for this repository."
+          echo "✅ Publication changes were still pushed to branch: hugoblox-import-publications"
 
       - name: Report workflow status
         if: always()
