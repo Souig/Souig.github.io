@@ -35,4 +35,4 @@ sections:
       view: pub-item
       sort_order: "type_year"
 ---
-Minh Tao Chan received the Ph.D. degree from Tsinghua University in 2025. Earned undergraduate and graduate degrees in Computer Science and Information Technology from École Polytechnique in France, followed by further graduate studies at the University of California in the United States. Has worked in the autonomous driving industry and at NASA spin-off companies in the United States, China, and Japan.
+Minh Thao Chan received the Ph.D. degree from Tsinghua University in 2025. Earned undergraduate and graduate degrees in Computer Science and Information Technology from École Polytechnique in France, followed by further graduate studies at the University of California in the United States. Has worked in the autonomous driving industry and at NASA spin-off companies in the United States, China, and Japan.
