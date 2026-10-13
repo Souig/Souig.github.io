@@ -3,7 +3,7 @@ title: Yaodan Xu
 type: landing
 first_name: Yaodan
 last_name: Xu
-weight: 1
+weight: 26
 user_groups:
   - Undergraduate Students
 superuser: false

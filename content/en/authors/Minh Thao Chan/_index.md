@@ -3,7 +3,7 @@ title: Minh Thao Chan
 type: landing
 first_name: Minh
 last_name: Thao Chan
-weight: 1
+weight: 25
 user_groups:
   - Undergraduate Students
 superuser: false

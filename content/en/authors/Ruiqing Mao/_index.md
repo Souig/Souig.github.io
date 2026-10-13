@@ -3,7 +3,7 @@ title: Ruiqing Mao
 type: landing
 first_name: Ruiqing
 last_name: Mao
-weight: 3
+weight: 25
 user_groups:
   - Undergraduate Students
 superuser: false

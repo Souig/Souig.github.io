@@ -3,7 +3,7 @@ title: Renxiao Zeng
 type: landing
 first_name: Renxiao
 last_name: Zeng
-weight: 4
+weight: 25
 user_groups:
   - Undergraduate Students
 superuser: false

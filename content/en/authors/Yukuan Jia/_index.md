@@ -3,7 +3,7 @@ title: Yukuan Jia
 type: landing
 first_name: Yukuan
 last_name: Jia
-weight: 3
+weight: 25
 user_groups:
   - Undergraduate Students
 superuser: false

@@ -3,7 +3,7 @@ title: Lehan Wang
 type: landing
 first_name: Lehan
 last_name: Wang
-weight: 5
+weight: 24
 user_groups:
   - Undergraduate Students
 superuser: false

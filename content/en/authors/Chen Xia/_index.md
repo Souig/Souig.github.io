@@ -3,7 +3,7 @@ title: Chen Xia
 type: landing
 first_name: Chen
 last_name: Xia
-weight: 2
+weight: 26
 user_groups:
   - Undergraduate Students
 superuser: false

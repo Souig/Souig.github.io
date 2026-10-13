@@ -3,7 +3,7 @@ title: Siwei Chen
 type: landing
 first_name: Siwei
 last_name: Chen
-weight: 6
+weight: 24
 user_groups:
   - Undergraduate Students
 superuser: false

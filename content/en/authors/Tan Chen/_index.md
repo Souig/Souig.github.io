@@ -3,7 +3,7 @@ title: Tan Chen
 type: landing
 first_name: Tan
 last_name: Chen
-weight: 1
+weight: 26
 user_groups:
   - Undergraduate Students
 superuser: false

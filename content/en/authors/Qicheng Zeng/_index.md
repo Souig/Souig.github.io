@@ -3,7 +3,7 @@ title: Qicheng Zeng
 type: landing
 first_name: Qicheng
 last_name: Zeng
-weight: 5
+weight: 24
 user_groups:
   - Undergraduate Students
 superuser: false
