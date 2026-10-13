@@ -1,20 +1,19 @@
 ---
-title: Hongbo Wu
+title: Alex Oliveras Martinez
 type: landing
-first_name: Hongbo
-last_name: Wu
-weight: 23
+first_name: Alex Oliveras
+last_name: Martinez
+weight: 10
 user_groups:
-  - Undergraduate Students
+  - Visiting Students
 superuser: false
 highlight_name: true
-role: M.S.
 organizations:
   - name: Dept. of Electronic Engineering, Tsinghua University
 sections:
   - block: resume-biography-3
     content:
-      username: Hongbo Wu
+      username: Alex Oliveras Martinez
       text: ''
       headings:
         about: Biography
@@ -29,10 +28,12 @@ sections:
     content:
       title: Publications
       filters:
-        author: "H. Wu"
+        author: "Alex Oliveras Martinez"
         show_toolbar: false
     design:
       view: pub-item
       sort_order: "type_year"
 ---
-Hongbo Wu graduated from Nankai High School in Tianjin in 2016 and received his bachelor's degree from Xiamen University in 2020. In the same year, he enrolled in the THU–JHU dual master's degree program at the Department of Electronic Engineering, Tsinghua University, where he conducted research on body area network (BAN) communications under the supervision of Professor Sheng Zhou. He graduated in 2023.
+From: Universitat Politècnica de Catalunya
+
+Visit Period: Jun. 2013 - Jan. 2014

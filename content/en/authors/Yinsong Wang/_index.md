@@ -3,7 +3,7 @@ title: Yinsong Wang
 type: landing
 first_name: Yinsong
 last_name: Wang
-weight: 2
+weight: 26
 user_groups:
   - Undergraduate Students
 superuser: false

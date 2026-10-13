@@ -15,6 +15,7 @@ sections:
         - Ph.D. Students
         - Master Students
         - Undergraduate Students
+        - Visiting Students
       sort_by: 'Params.weight'
       sort_ascending: false
       cta:
