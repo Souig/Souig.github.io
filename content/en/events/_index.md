@@ -35,8 +35,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      #view: card
-      view: date-title
+      view: card
+      #view: date-title
   # - block: collection
   #   # id: news
   #   content:
