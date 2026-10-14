@@ -3,7 +3,7 @@ title: Sheng Zhou
 type: landing
 first_name: Sheng
 last_name: Zhou
-weight: 2
+weight: 1
 user_groups:
   - Faculties
 superuser: false

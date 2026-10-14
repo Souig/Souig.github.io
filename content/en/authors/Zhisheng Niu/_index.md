@@ -3,7 +3,7 @@ title: Zhisheng Niu
 type: landing
 first_name: Zhisheng
 last_name: Niu
-weight: 1
+weight: 2
 user_groups:
   - Faculties
 superuser: true
