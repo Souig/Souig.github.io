@@ -36,7 +36,7 @@ sections:
     design:
       # Choose a layout view
       #view: card
-      view: data-title-summary
+      view: data-title
   # - block: collection
   #   # id: news
   #   content:

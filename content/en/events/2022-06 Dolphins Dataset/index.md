@@ -12,6 +12,6 @@ date: 2022-12-09
   allowfullscreen>
 </iframe>
 
-DOLPHINS, Dataset for cOLlaborative Perception enabled Harmonious and INterconnected Self-driving, provides temporally aligned visual and LiDAR information collected from different perspectives, i.e. vehicles and road side units. We use the [CARLA simulator](https://carla.org/) to complete this work, which can provide us with realistic environment modeling, as well as dynamics and sensors simulations of various vehicle.
+DOLPHINS, **D**ataset for c**OL**laborative **P**erception enabled **H**armonious and **IN**terconnected **S**elf-driving, provides temporally aligned visual and LiDAR information collected from different perspectives, i.e. vehicles and road side units. We use the [CARLA simulator](https://carla.org/) to complete this work, which can provide us with realistic environment modeling, as well as dynamics and sensors simulations of various vehicle.
 
 For more information, please visit [Dolphins Dataset](https://dolphins-dataset.net/).
