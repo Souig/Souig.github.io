@@ -20,6 +20,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
+      page_type: blog
       count: 0
       # Filter on criteria
       filters:
@@ -34,7 +35,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: card
+      #view: card
+      view: data-title-summary
   # - block: collection
   #   # id: news
   #   content:

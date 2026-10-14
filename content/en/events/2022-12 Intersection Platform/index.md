@@ -5,10 +5,9 @@ date: 2022-12-09
 ---
 
 <iframe
-  src="https://www.youtube.com/watch?v=Q4zwr_1IDpI"
+  src="https://www.youtube.com/embed/Q4zwr_1IDpI"
   width="100%"
   height="450"
-  title="Lab Event"
   frameborder="0"
   allowfullscreen>
 </iframe>
