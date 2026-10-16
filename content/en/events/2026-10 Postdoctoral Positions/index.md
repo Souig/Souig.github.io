@@ -40,7 +40,7 @@ The research group led by Professor Zhisheng Niu and Associate Professor Sheng Z
 
 **Laboratory Website:** https://network.ee.tsinghua.edu.cn/niulab/
 
-**Contact:** Ms. Ping Xu
+**Contact:** Ping Xu
 
 **Email:** [xuping811@tsinghua.edu.cn](mailto:xuping811@tsinghua.edu.cn)
 
