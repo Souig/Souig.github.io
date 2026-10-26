@@ -5,7 +5,7 @@ first_name: Siwei
 last_name: Chen
 weight: 24
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: M.S.

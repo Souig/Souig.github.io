@@ -21,17 +21,4 @@ sections:
         <li>AI for low-altitude network optimization</li>
         </ul>
 
-        ![Edge Intelligence](3-1.png)
-        ![Edge Intelligence](3-2.png)
-        ![Edge Intelligence](3-3.png)
-        ![Edge Intelligence](3-4.png)
-        ![Edge Intelligence](3-5.png)
-        ![Edge Intelligence](3-6.png)
-        ![Edge Intelligence](3-7.png)
-        ![Edge Intelligence](3-8.png)
-        ![Edge Intelligence](3-9.png)
-        ![Edge Intelligence](3-10.png)
-        ![Edge Intelligence](3-11.png)
-        ![Edge Intelligence](3-12.png)
-        ![Edge Intelligence](3-13.png)
 ---

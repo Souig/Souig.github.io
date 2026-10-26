@@ -5,7 +5,7 @@ first_name: Yiqun
 last_name: Wu
 weight: 12
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

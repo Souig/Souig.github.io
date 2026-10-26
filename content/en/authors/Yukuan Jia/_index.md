@@ -5,7 +5,7 @@ first_name: Yukuan
 last_name: Jia
 weight: 25
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

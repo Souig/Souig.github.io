@@ -20,4 +20,6 @@ sections:
         <li>Multi-agent collaboration</li>
         <li>Intelligent RAN (Radio Access Network)</li>
         </ul>
+
+        ![AI Native](AI-Native-L.png)
 ---

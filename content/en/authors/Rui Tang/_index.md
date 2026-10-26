@@ -5,7 +5,7 @@ first_name: Rui
 last_name: Tang
 weight: 1
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: M.S.

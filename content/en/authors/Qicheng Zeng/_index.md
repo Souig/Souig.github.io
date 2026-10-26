@@ -5,7 +5,7 @@ first_name: Qicheng
 last_name: Zeng
 weight: 24
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

@@ -5,7 +5,7 @@ first_name: Zhiyuan
 last_name: Jiang
 weight: 15
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

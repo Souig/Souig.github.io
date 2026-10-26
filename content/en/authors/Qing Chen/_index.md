@@ -5,7 +5,7 @@ first_name: Qing
 last_name: Chen
 weight: 9
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

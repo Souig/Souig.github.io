@@ -5,7 +5,7 @@ first_name: Yongkang
 last_name: Li
 weight: 18
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: M.S.

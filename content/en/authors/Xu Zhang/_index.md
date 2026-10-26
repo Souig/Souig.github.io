@@ -5,7 +5,7 @@ first_name: Xu
 last_name: Zhang
 weight: 15
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

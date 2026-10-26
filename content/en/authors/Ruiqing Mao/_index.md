@@ -5,7 +5,7 @@ first_name: Ruiqing
 last_name: Mao
 weight: 25
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

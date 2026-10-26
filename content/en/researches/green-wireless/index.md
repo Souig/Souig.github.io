@@ -20,4 +20,6 @@ sections:
         <li>Network resource optimization</li>
         <li>Sustainable 6G network design</li>
         </ul>
+
+        ![Green Wireless](Green-L.png)
 ---

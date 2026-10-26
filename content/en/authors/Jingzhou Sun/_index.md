@@ -5,7 +5,7 @@ first_name: Jingzhou
 last_name: Sun
 weight: 23
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

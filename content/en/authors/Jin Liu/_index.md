@@ -5,7 +5,7 @@ first_name: Jin
 last_name: Liu
 weight: 2
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

@@ -5,7 +5,7 @@ first_name: Sheng
 last_name: Chen
 weight: 22
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

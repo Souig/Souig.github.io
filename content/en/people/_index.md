@@ -14,7 +14,7 @@ sections:
         - Faculties
         - Ph.D. Students
         - Master Students
-        - Undergraduate Students
+        - Alumni
         - Visiting Students
       sort_by: 'Params.weight'
       sort_ascending: false

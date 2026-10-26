@@ -5,7 +5,7 @@ first_name: Xiang
 last_name: Duan
 weight: 5
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

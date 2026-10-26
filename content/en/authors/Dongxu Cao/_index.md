@@ -5,7 +5,7 @@ first_name: Dongxu
 last_name: Cao
 weight: 13
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

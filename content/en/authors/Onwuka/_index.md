@@ -5,7 +5,7 @@ first_name: Elizabeth
 last_name: Onwuka
 weight: 5
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

@@ -5,7 +5,7 @@ first_name: Jingbo
 last_name: Dong
 weight: 9
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: M.S.

@@ -5,7 +5,7 @@ first_name: Zhenbin
 last_name: Li
 weight: 2
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: M.S.

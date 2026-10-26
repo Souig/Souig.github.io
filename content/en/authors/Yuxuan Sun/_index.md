@@ -5,7 +5,7 @@ first_name: Yuxuan
 last_name: Sun
 weight: 20
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

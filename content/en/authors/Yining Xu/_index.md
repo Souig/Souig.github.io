@@ -5,7 +5,7 @@ first_name: Yining
 last_name: Xu
 weight: 22
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

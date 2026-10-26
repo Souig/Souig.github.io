@@ -5,7 +5,7 @@ first_name: Hyeok In
 last_name: Seong
 weight: 13
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: M.S.

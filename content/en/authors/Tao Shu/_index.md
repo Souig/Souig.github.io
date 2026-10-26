@@ -5,7 +5,7 @@ first_name: Tao
 last_name: Shu
 weight: 4
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

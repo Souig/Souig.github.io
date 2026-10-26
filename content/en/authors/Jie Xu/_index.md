@@ -5,7 +5,7 @@ first_name: Jie
 last_name: Xu
 weight: 10
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: M.S.

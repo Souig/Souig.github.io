@@ -5,7 +5,7 @@ first_name: Hongbo
 last_name: Wu
 weight: 23
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: M.S.

@@ -21,17 +21,5 @@ sections:
         <li>Intelligent transportation systems</li>
         </ul>
 
-        ![Edge Intelligence](2-1.png)
-        ![Edge Intelligence](2-2.png)
-        ![Edge Intelligence](2-3.png)
-        ![Edge Intelligence](2-4.png)
-        ![Edge Intelligence](2-5.png)
-        ![Edge Intelligence](2-6.png)
-        ![Edge Intelligence](2-7.png)
-        ![Edge Intelligence](2-8.png)
-        ![Edge Intelligence](2-9.png)
-        ![Edge Intelligence](2-10.png)
-        ![Edge Intelligence](2-11.png)
-        ![Edge Intelligence](2-12.png)
-        ![Edge Intelligence](2-13.png)
+        ![Vehicular Systems](AutoDriving-L.png)
 ---

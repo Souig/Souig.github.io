@@ -5,7 +5,7 @@ first_name: Tianchu
 last_name: Zhao
 weight: 21
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

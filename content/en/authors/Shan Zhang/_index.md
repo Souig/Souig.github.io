@@ -5,7 +5,7 @@ first_name: Shan
 last_name: Zhang
 weight: 16
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.

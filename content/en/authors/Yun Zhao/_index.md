@@ -5,7 +5,7 @@ first_name: Yun
 last_name: Zhao
 weight: 16
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: M.S.

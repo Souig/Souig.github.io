@@ -5,7 +5,7 @@ first_name: Jingdong
 last_name: Feng
 weight: 5
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: M.S.

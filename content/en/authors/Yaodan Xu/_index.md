@@ -5,7 +5,7 @@ first_name: Yaodan
 last_name: Xu
 weight: 26
 user_groups:
-  - Undergraduate Students
+  - Alumni
 superuser: false
 highlight_name: true
 role: Ph.D.
