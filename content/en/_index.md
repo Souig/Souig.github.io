@@ -27,7 +27,7 @@ sections:
               size: cover
     design:
       #slide_height: "calc(100vh - 120px)"
-      slide_height: "60vh"
+      slide_height: "40vh"
       auto_play: true
       interval_ms: 4000
       css_class: ""

@@ -2,10 +2,11 @@
 title: "Dolphins Dataset"
 date: 2022-12-09
 # summary: "A research seminar on cooperative autonomous driving and wireless communications."
+# src="https://www.youtube.com/embed/LcxuSlkogUk"
 ---
 
 <iframe
-  src="https://www.youtube.com/embed/LcxuSlkogUk"
+  src="https://player.bilibili.com/player.html?bvid=BV1nF411T7QG&page=1&danmaku=0"
   width="100%"
   height="450"
   frameborder="0"
