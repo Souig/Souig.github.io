@@ -21,5 +21,7 @@ sections:
         <li>Intelligent transportation systems</li>
         </ul>
 
-        ![Vehicular Systems](AutoDriving-L.png)
+        <div style="text-align: center;">
+          <img src="AutoDriving-L.png" alt="Example" style="max-width: 100%; height: auto;">
+        </div>
 ---

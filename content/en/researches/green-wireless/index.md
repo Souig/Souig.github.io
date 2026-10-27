@@ -21,5 +21,7 @@ sections:
         <li>Sustainable 6G network design</li>
         </ul>
 
-        ![Green Wireless](Green-L.png)
+        <div style="text-align: center;">
+          <img src="Green-L.png" alt="Example" style="max-width: 100%; height: auto;">
+        </div>
 ---

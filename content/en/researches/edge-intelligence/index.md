@@ -21,5 +21,7 @@ sections:
         <li>Stochastic network optimization</li>
         </ul>
 
-        ![Edge Intelligence](EdgeIntelligence-L.png)
+        <div style="text-align: center;">
+          <img src="EdgeIntelligence-L.png" alt="Example" style="max-width: 100%; height: auto;">
+        </div>
 ---

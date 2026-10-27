@@ -25,6 +25,16 @@ sections:
               filename: team3.jpg
               position: center
               size: cover
+        - background:
+            image:
+              filename: team4.jpg
+              position: center
+              size: cover
+        - background:
+            image:
+              filename: team5.jpg
+              position: center
+              size: cover
     design:
       #slide_height: "calc(100vh - 120px)"
       slide_height: "40vh"

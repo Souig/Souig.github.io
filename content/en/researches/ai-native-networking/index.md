@@ -21,5 +21,7 @@ sections:
         <li>Intelligent RAN (Radio Access Network)</li>
         </ul>
 
-        ![AI Native](AI-Native-L.png)
+        <div style="text-align: center;">
+          <img src="AI-Native-L.png" alt="Example" style="max-width: 100%; height: auto;">
+        </div>
 ---
