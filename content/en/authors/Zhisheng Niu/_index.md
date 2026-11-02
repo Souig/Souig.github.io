@@ -6,7 +6,7 @@ last_name: Niu
 weight: 2
 user_groups:
   - Faculties
-superuser: true
+superuser: false
 highlight_name: true
 role: Professor
 organizations:
