@@ -1,7 +1,7 @@
 ---
-title: “面向 6G 网络的高可靠低延时通信计算与控制”
+title: "面向 6G 网络的高可靠低延时通信计算与控制"
 authors:
-  - “Zhisheng Niu”
+  - "牛志升"
 
 date: '2024-01-01'
 publishDate: '2026-05-02T00:00:00Z'
