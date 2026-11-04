@@ -105,7 +105,7 @@ sections:
   - block: pub-collection
     id: publications
     content:
-      title: Selected Publications
+      title: Recent Publications
       subtitle: "Representative journal and conference papers from our lab"
       filters:
         author: ""
