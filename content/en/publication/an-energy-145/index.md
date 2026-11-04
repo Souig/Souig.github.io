@@ -1,13 +1,18 @@
 ---
-title: "An Energy-EfficientOFDMScheme Basedon Time-Frequency Joint Channel Estimation"
+title: "Energy‐efficient orthogonal frequency division multiplexing scheme based on time–frequency joint channel estimation"
 authors:
-  - "WenboDing"
-  - "FangYang"
-  - "JianSong"
-  - "ZhishengNiu"
-date: '2014-01-01'
+  - "Wenbo Ding"
+  - "Fang Yang"
+  - "Jian Song"
+  - "Zhisheng Niu"
+date: "2014-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: IET Communications
+publication: "IET Communications"
+volume: "8(18)"
+pages: "3406-3413"
+links:
+  - type: doi
+    id: "10.1049/iet-com.2014.0644"
 ---

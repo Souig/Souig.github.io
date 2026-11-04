@@ -1,14 +1,14 @@
 ---
-title: "Energy-awarenetworkplan- ningforwirelesscellularsystemswithinter-cellcooperation"
+title: "Energy-aware network planning for wireless cellular system with inter-cell cooperation"
 authors:
-  - "ZhishengNiu"
-  - "ShengZhou"
-  - "YaoHua"
-  - "QianZhang"
-  - "DongxuCao"
-date: '2024-01-01'
+  - "Zhisheng Niu"
+  - "Sheng Zhou"
+  - "Yao Hua"
+  - "Qian Zhang"
+  - "Dongxu Cao"
+date: "2012-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: IEEE Transactions on Wireless Communications
+publication: "IEEE Transactions on Wireless Communications"
 ---

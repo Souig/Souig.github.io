@@ -6,11 +6,11 @@ authors:
   - "孙宇璇"
   - "周盛"
   - "牛志升"
-date: '2024-01-01'
+date: "2021-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: 'Journal of Electronics & Information Technology'
-volume: '2021(6)'
-pages: '3-13'
+publication: "电信科 学"
+volume: "2021(6)"
+pages: "3-13"
 ---

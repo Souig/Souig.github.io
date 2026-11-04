@@ -1,12 +1,12 @@
 ---
-title: "Improved Scaling Lawfor Status Update Timelinessin Massive IoT by Elastic Spatial Multiplexing"
+title: "Improved Scaling Law for Status Update Timeliness in Massive IoT by Elastic Spatial Multiplexing"
 authors:
   - "Zhiyuan Jiang"
   - "Sheng Zhou"
   - "Zhisheng Niu"
-date: '2018-01-01'
+date: "2018-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE Global Communications Conference
+publication: "IEEE Global Communications Conference"
 ---

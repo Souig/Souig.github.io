@@ -1,13 +1,13 @@
 ---
-title: "Proactive push with energy harvesting based small cells in heterogeneousnetworks"
+title: "Proactive push with energy harvesting based small cells in heterogeneous networks"
 authors:
   - "J. Gong"
   - "Sheng Zhou"
   - "Z. Zhou"
   - "Zhisheng Niu"
-date: '2015-01-01'
+date: "2015-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE International Conference on Communications
+publication: "IEEE International Conference on Communications"
 ---

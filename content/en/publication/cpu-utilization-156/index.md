@@ -2,13 +2,17 @@
 featured: true
 title: "CPU-Utilization-Aware Scheduling for In-Vehicle Distributed Computing"
 authors:
-  - "J. Yan"
-  - "Y. Han"
-  - "Z. Nan"
-  - "S. Zhou"
-date: '2024-01-01'
+  - "Jintao Yan"
+  - "Yunchu Han"
+  - "Zhaojun Nan"
+  - "Sheng Zhou"
+date: "2024-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE Wireless Communications and Networking Conference (WCNC)
+publication: "2024 IEEE Wireless Communications and Networking Conference (WCNC)"
+pages: "1-6"
+links:
+  - type: doi
+    id: "10.1109/wcnc57260.2024.10571131"
 ---

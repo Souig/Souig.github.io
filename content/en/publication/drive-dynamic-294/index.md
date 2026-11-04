@@ -4,10 +4,14 @@ authors:
   - "V. Vardanyan"
   - "Z. Niu"
   - "S. Zhou"
-date: '2026-01-01'
+date: "2026-01-01"
 publishDate: '2026-05-11T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE Vehicular Technology Conference (VTC2026-Spring)
+publication: "IEEE Vehicular Technology Conference (VTC2026-Spring)"
 status: 'Accepted'
+featured: true
+links:
+  - type: video
+    url: "https://resourcecenter.vts.ieee.org/education/webinars/vts_edu_web_vardanyan_061026"
 ---

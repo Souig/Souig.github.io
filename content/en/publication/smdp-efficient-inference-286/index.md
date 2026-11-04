@@ -5,9 +5,12 @@ authors:
   - "J. Sun"
   - "S. Zhou"
   - "Z. Niu"
-date: '2023-01-01'
+date: "2023-01-01"
 publishDate: '2026-05-11T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE International Conference on Communications (ICC)
+publication: "IEEE International Conference on Communications (ICC)"
+links:
+  - type: pdf
+    url: "https://arxiv.org/pdf/2301.12865.pdf"
 ---

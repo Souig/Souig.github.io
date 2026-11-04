@@ -1,5 +1,5 @@
 ---
-title: ", AI-Assisted Low Information Latency Wireless Networking"
+title: "AI-Assisted Low Information Latency Wireless Networking"
 authors:
   - "Zhiyuan Jiang"
   - "S. Fu"
@@ -7,11 +7,14 @@ authors:
   - "Zhisheng Niu"
   - "S. Zhang"
   - "Siyi Xu"
-date: '2024-01-01'
+date: "2020-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: IEEE Wireless Communications
-volume: '27(1)'
-pages: '108-115'
+publication: "IEEE Wireless Communications"
+volume: "27(1)"
+pages: "108-115"
+links:
+  - type: pdf
+    url: "https://arxiv.org/pdf/1912.01319"
 ---

@@ -1,13 +1,13 @@
 ---
-title: "Optimalwake-upmechanismforsinglebasestationwith sleepmode"
+title: "Optimal wake-up mechanism for single base station with sleep mode"
 authors:
   - "X. Guo"
   - "Sheng Zhou"
   - "Zhisheng Niu"
   - "P. R. Kumar"
-date: '2013-01-01'
+date: "2013-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: International Teletraffic Congress
+publication: "International Teletraffic Congress"
 ---

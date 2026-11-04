@@ -1,14 +1,14 @@
 ---
-title: "Timely and Sustainable: Utilis- ing Correlationin Status Updatesof Battery-Poweredand Energy-Harvesting Sensors Using Deep Rein- forcement Learning"
+title: "Timely and Sustainable: Utilising Correlation in Status Updates of Battery-Powered and Energy-Harvesting Sensors Using Deep Reinforcement Learning"
 authors:
   - "J. Hribar"
-  - "DaSilva"
+  - "Da Silva"
   - "Sheng Zhou"
   - "Zhiyuan Jiang"
   - "I. Dusparic"
-date: '2024-01-01'
+date: "2022-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: Computer Communications
+publication: "Computer Communications"
 ---

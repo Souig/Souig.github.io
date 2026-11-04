@@ -3,9 +3,9 @@ title: "The Impact of Interference Reflection on Reconfigurable Intelligent Surf
 authors:
   - "Sheng Zhou"
   - "Zhisheng Niu"
-date: '2021-01-01'
+date: "2021-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE/CIC International Conference on Communications in China
+publication: "IEEE/CIC International Conference on Communications in China"
 ---

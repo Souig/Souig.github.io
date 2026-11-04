@@ -4,9 +4,12 @@ authors:
   - "X. Zheng"
   - "Sheng Zhou"
   - "Zhisheng Niu"
-date: '2019-01-01'
+date: "2019-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE Global Communications Conference
+publication: "IEEE Global Communications Conference"
+links:
+  - type: pdf
+    url: "https://arxiv.org/pdf/1908.04446"
 ---

@@ -1,14 +1,14 @@
 ---
-title: "Pricing policy and computational resource provi- sioningfor Delay-awaremobileedgecomputing"
+title: "Pricing policy and computational resource provisioning for Delay-aware mobile edge computing"
 authors:
   - "T. Zhao"
   - "Sheng Zhou"
   - "X. Guo"
   - "Y. Zhao"
   - "Zhisheng Niu"
-date: '2016-01-01'
+date: "2016-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE International Conference on Communications
+publication: "IEEE International Conference on Communications"
 ---

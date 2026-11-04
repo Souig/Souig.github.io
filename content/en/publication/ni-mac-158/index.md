@@ -1,13 +1,13 @@
 ---
-title: "NI-MAC:MACProtocol Designfor Neural Interfaces"
+title: "NI-MAC: MAC Protocol Design for Neural Interfaces"
 authors:
   - "H. Wu"
   - "Y. Jia"
   - "Sheng Zhou"
   - "Zhisheng Niu"
-date: '2023-01-01'
+date: "2023-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE International Conference on e-Health Networking, Applications and Services
+publication: "IEEE International Conference on e-Health Networking, Applications and Services"
 ---

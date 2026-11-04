@@ -1,5 +1,5 @@
 ---
-title: "Spatialmodelingofthetrafficdensity incellularnetworks"
+title: "Spatial modeling of the traffic density in cellular networks"
 authors:
   - "D. Lee"
   - "Sheng Zhou"
@@ -7,11 +7,11 @@ authors:
   - "Zhisheng Niu"
   - "X. Zhou"
   - "H. Zhang"
-date: '2024-01-01'
+date: "2014-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: IEEE Wireless Communications
-volume: '21(1)'
-pages: '80-88'
+publication: "IEEE Wireless Communications"
+volume: "21(1)"
+pages: "80-88"
 ---

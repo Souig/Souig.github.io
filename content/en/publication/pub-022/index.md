@@ -7,11 +7,15 @@ authors:
   - "龚杰"
   - "常征"
   - "牛志升"
-date: '2024-01-01'
+date: "2024-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: 'Science China: Information Sciences'
-volume: '54(4)'
-pages: '745-757'
+publication: "中国科学: 信息科学"
+volume: "54(4)"
+pages: "745-757"
+featured: true
+links:
+  - type: doi
+    id: "10.1360/ssi-2023-0290"
 ---

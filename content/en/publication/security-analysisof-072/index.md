@@ -1,5 +1,5 @@
 ---
-title: "Security Analysisof Mobile Device- to-Device Network Applications"
+title: "Security Analysis of Mobile Device-to-Device Network Applications"
 authors:
   - "K. Liu"
   - "W. Shen"
@@ -8,11 +8,11 @@ authors:
   - "Q. Li"
   - "Sheng Zhou"
   - "Zhisheng Niu"
-date: '2024-01-01'
+date: "2019-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: IEEE Internet of Things Journal
-volume: '6(2)'
-pages: '2922-2932'
+publication: "IEEE Internet of Things Journal"
+volume: "6(2)"
+pages: "2922-2932"
 ---

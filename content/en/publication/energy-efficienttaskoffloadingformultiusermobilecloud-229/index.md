@@ -1,13 +1,13 @@
 ---
-title: "Energy-efficienttaskoffloadingformultiusermobilecloud computing"
+title: "Energy-efficient task offloading for multiuser mobile cloud computing"
 authors:
   - "Y. Zhao"
   - "Sheng Zhou"
   - "T. Zhao"
   - "Zhisheng Niu"
-date: '2015-01-01'
+date: "2015-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE International Conference on Communications
+publication: "IEEE International Conference on Communications"
 ---

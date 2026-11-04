@@ -1,10 +1,10 @@
 ---
-title: "Importance-Aware Message Exchangeand Predictionfor Multi-Agent Re- inforcement Learning"
+title: "Importance-Aware Message Exchange and Prediction for Multi-Agent Reinforcement Learning"
 authors:
-  - "X. HuangandS. Zhou"
-date: '2022-01-01'
+  - "X. Huangand S. Zhou"
+date: "2022-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE Global Communications Conference
+publication: "IEEE Global Communications Conference"
 ---

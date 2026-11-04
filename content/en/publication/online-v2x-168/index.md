@@ -1,5 +1,5 @@
 ---
-featured: true
+
 title: "Online V2X Scheduling for Raw-Level Cooperative Perception"
 authors:
   - "Y. Jia"
@@ -7,9 +7,12 @@ authors:
   - "Y. Sun"
   - "Sheng Zhou"
   - "Zhisheng Niu"
-date: '2022-01-01'
+date: "2022-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE International Conference on Communications
+publication: "IEEE International Conference on Communications"
+links:
+  - type: pdf
+    url: "https://arxiv.org/pdf/2202.06085"
 ---

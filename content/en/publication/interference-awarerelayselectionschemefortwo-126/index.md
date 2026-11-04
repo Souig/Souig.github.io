@@ -1,14 +1,14 @@
 ---
-title: "Interference-awarerelayselectionschemefortwo-hoprelaynetworks withmultiplesource-destinationpairs"
+title: "Interference-aware relay selection scheme for two-hop relay networks with multiple source-destination pairs"
 authors:
   - "Sheng Zhou"
   - "J. Xu"
   - "Zhisheng Niu"
-date: '2024-01-01'
+date: "2013-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: IEEE Transactions on Vehicular Technology
-volume: '62(5)'
-pages: '2327-2338'
+publication: "IEEE Transactions on Vehicular Technology"
+volume: "62(5)"
+pages: "2327-2338"
 ---

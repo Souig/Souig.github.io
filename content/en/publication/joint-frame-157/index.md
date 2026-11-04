@@ -1,16 +1,21 @@
 ---
-title: ", Joint Frame Structureand Beamwidth Optimizationfor Integrated Localizationand Communication"
+title: "Joint Frame Structure and Beamwidth Optimization for Integrated Localization and Communication"
 authors:
-  - "T. Liang"
-  - "Z. Yu"
-  - "T. Zhang"
+  - "Tianhao Liang"
+  - "Zhaoyi Yu"
+  - "Tingting Zhang"
   - "Sheng Zhou"
-  - "W. Liu"
-  - "L. Dong"
+  - "Wentao Liu"
+  - "Dong Li"
   - "Zhisheng Niu"
-date: '2024-01-01'
+date: "2024-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE Wireless Communications
+publication: "2024 IEEE Wireless Communications and Networking Conference (WCNC)"
+pages: "1-6"
+featured: true
+links:
+  - type: doi
+    id: "10.1109/wcnc57260.2024.10571296"
 ---

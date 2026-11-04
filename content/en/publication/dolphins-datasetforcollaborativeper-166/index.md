@@ -1,5 +1,5 @@
 ---
-title: ", DOLPHINS:Datasetforcollaborativeper-ception enabled harmonious and interconnected self-driving"
+title: "DOLPHINS: Dataset for collaborative perception enabled harmonious and interconnected self-driving"
 authors:
   - "R. Mao"
   - "J. Guo"
@@ -7,9 +7,12 @@ authors:
   - "Y. Sun"
   - "Sheng Zhou"
   - "Zhisheng Niu"
-date: '2022-01-01'
+date: "2022-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: Asian Conference on Computer Vision
+publication: "Asian Conference on Computer Vision"
+links:
+  - type: pdf
+    url: "https://arxiv.org/pdf/2207.07609"
 ---

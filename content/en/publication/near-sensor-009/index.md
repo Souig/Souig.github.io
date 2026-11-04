@@ -1,22 +1,26 @@
 ---
-title: "Near-Sensor LiDARand Visual Feature Extractionand Communicationfor Low-Latency Roadside Cooperative Perception"
+title: "Near-Sensor LiDAR and Visual Feature Extraction and Communication for Low-Latency Roadside Cooperative Perception"
 authors:
-  - "W. Zhang"
-  - "Y. Gu"
-  - "B. Zhao"
-  - "Q. Deng"
-  - "X. Chen"
+  - "Wei Zhang"
+  - "Yuhang Gu"
+  - "Beining Zhao"
+  - "Qingyu Deng"
+  - "Xinyu Chen"
   - "Yi Shi"
   - "Limin Jiang"
   - "Shan Cao"
   - "Zhiyuan Jiang"
-  - "R. Mao"
+  - "Ruiqing Mao"
   - "Sheng Zhou"
-date: '2024-01-01'
+date: "2025-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: IEEE Internet of Things Journal
-volume: '12(17)'
-pages: '36713-36729'
+publication: "IEEE Internet of Things Journal"
+volume: "12(17)"
+pages: "36713-36729"
+featured: true
+links:
+  - type: doi
+    id: "10.1109/jiot.2025.3583443"
 ---

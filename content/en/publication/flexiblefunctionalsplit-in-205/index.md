@@ -1,10 +1,10 @@
 ---
-title: "Flexiblefunctionalsplit in C-RANwithrenewableenergypoweredremote radiounits"
+title: "Flexible functional split in C-RAN with renewable energy powered remote radio units"
 authors:
-  - "L. WangandS. Zhou"
-date: '2024-01-01'
+  - "L. Wangand S. Zhou"
+date: "2018-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE International Conference on Communications
+publication: "IEEE International Conference on Communications"
 ---

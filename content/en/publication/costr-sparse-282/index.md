@@ -1,5 +1,5 @@
 ---
-title: "CoSTr: a Fully Sparse Transformer with Mutual Information for Pragmatic Collaborative Perception"
+title: "CoSTr: Fully Sparse Transformer with Mutual Information for Pragmatic Collaborative Perception"
 authors:
   - "Chen Xia"
   - "Qianxin Qu"
@@ -7,10 +7,17 @@ authors:
   - "Guipeng Zhang"
   - "Sheng Zhou"
   - "Zhisheng Niu"
-date: '2026-01-01'
+date: "2026-01-01"
 publishDate: '2026-05-11T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: International Joint Conference on Neural Networks (IJCNN)
-status: 'Accepted'
+publication: "2026 International Joint Conference on Neural Networks (IJCNN)"
+
+pages: "1-8"
+featured: true
+links:
+  - type: pdf
+    url: "https://massimoqu.github.io/assets/CoSTr-full-v5.pdf"
+  - type: doi
+    id: "10.1109/ijcnn69854.2026.11728885"
 ---

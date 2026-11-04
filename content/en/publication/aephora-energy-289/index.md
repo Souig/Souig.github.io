@@ -1,12 +1,19 @@
 ---
 title: "AEPHORA: AI/ML-Based Energy-Efficient Proactive Handover and Resource Allocation"
 authors:
-  - "B. Xie"
-  - "S. Zhou"
-  - "Z. Niu"
-date: '2025-01-01'
+  - "Bowen Xie"
+  - "Sheng Zhou"
+  - "Zhisheng Niu"
+  - "Hao Wu"
+  - "Cong Shi"
+date: "2025-01-01"
 publishDate: '2026-05-11T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE International Conference on Communications
+publication: "ICC 2025 - IEEE International Conference on Communications"
+pages: "6297-6303"
+featured: true
+links:
+  - type: doi
+    id: "10.1109/icc52391.2025.11161541"
 ---

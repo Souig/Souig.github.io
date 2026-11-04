@@ -5,9 +5,9 @@ authors:
   - "Sheng Zhou"
   - "Zhisheng Niu"
   - "Y. Cheng"
-date: '2014-01-01'
+date: "2014-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE International Conference on Communications
+publication: "IEEE International Conference on Communications"
 ---

@@ -6,11 +6,14 @@ authors:
   - "Sheng Zhou"
   - "Zhisheng Niu"
   - "W. Zhang"
-date: '2024-01-01'
+date: "2020-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: IEEE Communications Letters
-volume: '24(3)'
-pages: '639-643'
+publication: "IEEE Communications Letters"
+volume: "24(3)"
+pages: "639-643"
+links:
+  - type: pdf
+    url: "https://arxiv.org/pdf/1912.11578"
 ---

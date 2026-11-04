@@ -1,5 +1,5 @@
 ---
-title: ", Learning-Based Remote Channel Inference: Feasibility Analysisand Case Study"
+title: "Learning-Based Remote Channel Inference: Feasibility Analysis and Case Study"
 authors:
   - "S. Chen"
   - "Zhiyuan Jiang"
@@ -7,12 +7,12 @@ authors:
   - "Zhisheng Niu"
   - "Z. He"
   - "A. Marinescu"
-  - "L. DaSilva"
-date: '2024-01-01'
+  - "L. Da Silva"
+date: "2019-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: IEEE Transactions on Wireless Communications
-volume: '18(7)'
-pages: '3554-'
+publication: "IEEE Transactions on Wireless Communications"
+volume: "18(7)"
+pages: "3554-"
 ---

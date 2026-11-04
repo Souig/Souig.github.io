@@ -6,10 +6,11 @@ authors:
   - "S. Zhou"
   - "Z. Niu"
   - "D. Gündüz"
-date: '2025-01-01'
+date: "2025-01-01"
 publishDate: '2026-05-11T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: IEEE Journal on Selected Areas in Communications
+publication: "IEEE Journal on Selected Areas in Communications"
 status: 'Submitted'
+featured: true
 ---

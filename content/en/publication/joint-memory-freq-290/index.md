@@ -1,14 +1,18 @@
 ---
-title: "Joint Memory Frequency and Computing Frequency Scaling for Energy-Efficient DNN Inference"
+title: "Joint Memory Frequency and Computing Frequency Scaling for Energy-efficient DNN Inference"
 authors:
-  - "Y. Han"
-  - "Z. Nan"
-  - "S. Zhou"
-  - "Z. Niu"
-date: '2025-12-01'
+  - "Yunchu Han"
+  - "Zhaojun Nan"
+  - "Sheng Zhou"
+  - "Zhisheng Niu"
+date: "2025-12-01"
 publishDate: '2026-05-11T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE Global Communications Conference (GLOBECOM)
-pages: '6105-6110'
+publication: "GLOBECOM 2025 - 2025 IEEE Global Communications Conference"
+pages: "6105-6110"
+featured: true
+links:
+  - type: doi
+    id: "10.1109/globecom59602.2025.11432626"
 ---

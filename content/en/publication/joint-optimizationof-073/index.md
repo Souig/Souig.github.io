@@ -1,5 +1,5 @@
 ---
-title: ", Joint Optimizationof Schedulingand Power Controlin Wireless Networks: Multi-Dimensional Modelingand Decomposition"
+title: "Joint Optimization of Scheduling and Power Control in Wireless Networks: Multi-Dimensional Modeling and Decomposition"
 authors:
   - "L. Liu"
   - "Y. Cheng"
@@ -7,11 +7,11 @@ authors:
   - "Sheng Zhou"
   - "Zhisheng Niu"
   - "P. Wang"
-date: '2024-01-01'
+date: "2019-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: IEEE Transactions on Mobile Computing
-volume: '18(7)'
-pages: '1585-1600'
+publication: "IEEE Transactions on Mobile Computing"
+volume: "18(7)"
+pages: "1585-1600"
 ---

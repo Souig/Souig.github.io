@@ -3,9 +3,9 @@ title: "Cluster-Based Cooperative Digital Over-the-Air Aggregation for Wireless 
 authors:
   - "R. Jiang"
   - "Sheng Zhou"
-date: '2020-01-01'
+date: "2020-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE/CIC International Conference on Communications in China
+publication: "IEEE/CIC International Conference on Communications in China"
 ---

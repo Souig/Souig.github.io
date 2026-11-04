@@ -1,13 +1,13 @@
 ---
-title: "Seeingtheunobservable: channellearningforwirelesscom- municationnetworks"
+title: "Seeing the unobservable: channel learning for wireless communication networks"
 authors:
   - "J. Liu"
   - "R. Deng"
   - "Sheng Zhou"
   - "Zhisheng Niu"
-date: '2015-01-01'
+date: "2015-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE Global Communications Conference
+publication: "IEEE Global Communications Conference"
 ---

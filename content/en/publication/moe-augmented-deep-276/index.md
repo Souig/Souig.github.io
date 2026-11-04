@@ -6,16 +6,17 @@ authors:
   - "Jingreng Lei"
   - "Yang Li"
   - "Yik-Chung Wu"
-date: '2025-09-01'
+date: "2025-09-01"
 publishDate: '2026-05-11T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: IEEE Wireless Communications Letters
-volume: '14(9)'
-pages: '2912-2916'
+publication: "IEEE Wireless Communications Letters"
+volume: "14(9)"
+pages: "2912-2916"
+featured: true
 links:
   - type: pdf
-    url: 'https://arxiv.org/pdf/2502.20183'
+    url: "https://arxiv.org/pdf/2502.20183"
   - type: doi
-    id: '10.1109/LWC.2025.3570163'
+    id: "10.1109/lwc.2025.3582828"
 ---

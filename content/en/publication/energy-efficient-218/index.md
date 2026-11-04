@@ -4,9 +4,12 @@ authors:
   - "L. Chen"
   - "Sheng Zhou"
   - "J. Xu"
-date: '2024-01-01'
+date: "2017-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE International Conference on Communications
+publication: "IEEE International Conference on Communications"
+links:
+  - type: pdf
+    url: "https://arxiv.org/pdf/1701.07405"
 ---

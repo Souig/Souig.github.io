@@ -4,11 +4,11 @@ authors:
   - "牛志升"
   - "周盛"
   - "孙宇璇"
-date: '2024-01-01'
+date: "2022-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: Journal of Communications
-volume: '2022(2)'
-pages: '1-14'
+publication: "通信学报"
+volume: "2022(2)"
+pages: "1-14"
 ---

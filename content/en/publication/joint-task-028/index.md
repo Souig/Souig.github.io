@@ -1,15 +1,15 @@
 ---
-title: "Joint Task Offloading and Resource Allocation for Vehicular Edge Computingwith Result Feedback Delay"
+title: "Joint Task Offloading and Resource Allocation for Vehicular Edge Computing with Result Feedback Delay"
 authors:
   - "Zhisheng Niu"
   - "Sheng Zhou"
   - "Y. Jia"
   - "Zhisheng Niu"
-date: '2024-01-01'
+date: "2023-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: IEEE Transactions on Wireless Communications
-volume: '22(7)'
-pages: '6547-'
+publication: "IEEE Transactions on Wireless Communications"
+volume: "22(7)"
+pages: "6547-"
 ---

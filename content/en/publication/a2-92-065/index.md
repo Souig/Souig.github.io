@@ -1,17 +1,19 @@
 ---
-title: ", A2.92-Gb/s/Wand0.43-Gb/s/MGFlexibleand Scalable CGRA-Based Baseband Processor for Massive MIMO Detection"
+title: "A 2.92-Gb/s/W and 0.43-Gb/s/MG Flexible and Scalable CGRA-Based Baseband Processor for Massive MIMO Detection"
 authors:
-  - "G. Peng"
-  - "L. Liu"
+  - "Guiqiang Peng"
+  - "Leibo Liu"
   - "Sheng Zhou"
-  - "Q. Wei"
-  - "S. Yin"
-  - "S. Wei"
-date: '2024-01-01'
+  - "Shouyi Yin"
+  - "Shaojun Wei"
+date: "2020-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "article-journal"
-publication: IEEE Journal of Solid-State Circuits
-volume: '55(2)'
-pages: '505-519'
+publication: "IEEE Journal of Solid-State Circuits"
+volume: "55(2)"
+pages: "505-519"
+links:
+  - type: doi
+    id: "10.1109/jssc.2019.2952839"
 ---

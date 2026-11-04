@@ -1,12 +1,12 @@
 ---
-title: "Optimal base station density for energy-efficient heterogeneous net- works"
+title: "Optimal base station density for energy-efficient heterogeneous networks"
 authors:
   - "D. Cao"
   - "Sheng Zhou"
   - "Zhisheng Niu"
-date: '2012-01-01'
+date: "2012-01-01"
 publishDate: '2026-05-02T00:00:00Z'
 publication_types:
   - "paper-conference"
-publication: IEEE International Conference on Communications
+publication: "IEEE International Conference on Communications"
 ---
