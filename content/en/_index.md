@@ -70,7 +70,7 @@ sections:
 
         - title: "Low-Altitude Intelligent Networks"
           text: "Designing cellular-connected drone networks with intelligent coverage, mobility management, and UAV-assisted communication."
-          image: "team1.jpg"
+          image: "Low-S.png"
           link: "/researches/low-altitude-networks/"
 
         - title: "AI-Native Networking"

@@ -21,4 +21,8 @@ sections:
         <li>AI for low-altitude network optimization</li>
         </ul>
 
+        <div style="text-align: center;">
+            <img src="Low-L.png" alt="Example" style="max-width: 100%; height: auto;">
+          </div>
+
 ---
